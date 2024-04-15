@@ -1,0 +1,16 @@
+p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #0074D9;
+}
+img {
+    max-width: 50%;
+    height: 50%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
